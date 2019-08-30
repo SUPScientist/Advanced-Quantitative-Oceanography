@@ -7,6 +7,8 @@ To install python....
 
 Miniconda.  While Anaconda is great (it has a nice interface and quickly downloads 1500+ libraries that you can just click on to use).  It takes up a lot of disk space on libraries that aren't especially relevant for ocean sciences. With Miniconda you install the libraries that you want, this makes it smaller, and also more controlled.  
 
+# download this file to your working directory:  https://github.com/python4oceanography/ocean_python_tutorial/blob/master/environment.yml
+
 # Install Miniconda:  Download Miniconda, Python 3.7 here: https://docs.conda.io/en/latest/miniconda.html
 
 # Install the downloaded file.  
@@ -17,43 +19,9 @@ Miniconda.  While Anaconda is great (it has a nice interface and quickly downloa
 * Linux–CentOS: Open Applications - System Tools - Terminal.
 * Linux–Ubuntu: Open the Dash by clicking the upper left Ubuntu icon, then type “terminal”.
 
-In the anaconda window type the following:
-conda list
+In the anaconda window type `conda list`.  If Anaconda is installed and working, this will display a list of installed packages and their versions.
 
-If Anaconda is installed and working, this will display a list of installed packages and their versions.
+#Create a new environment and install software packages.  At your anaconda prompt, type `conda env create -f environment.yml`
 
-
-* type the following commands at your anaconda prompt:
-conda create -n satenv
-conda activate satenv
-conda install xarray dask netCDF4 bottleneck scikit-learn matplotlib seaborn h5py jupyter basemap-data-hires
-conda install -c anaconda xlrd distributed
-conda install -c conda-forge palettable geopy cartopy satpy zarr podaacpy
-
-
-* Once finished, let's open a Jupyter notebook:
-At anaconda prompt type:
-jupyter notebook
-This will open a jupyter notebook in your browser.  From there you can open notebooks and run them.  It is probably easiest to navigate
-to where you keep your code, create a new 'python' directory and organize your code into projects from there.  (This will also make using GitHub easier).
-
-* Next time you want to code
-Open your anaconda promt.  You will see (base) at the front of the prompt.  To get into your satenv and open a notebook type:
-conda activate satenv
-jupyter notebook
-
-* Planning for the future
-At some point you will want other libraries.  It is best to create a new enviornment for each project. 
-You can do this by creating a new environment and then installing libraries in it.  Each time you start up, you will want to activate
-the environment you will be working in .
-conda create -n newenv
-conda activate newenv
-conda install   ..... some libraries....
-
-
-
-to launch notebook: at anaconda prompt type:
-jupyter notebook
-this will open a jupyter notebook in your chrome browser.  from there you can open
-notebooks and run them.
+* Once finished, let's open a Jupyter notebook, as a test.  At the anaconda prompt type `conda activate tutorialenv` then type `jupyter notebook`.  This will open a jupyter notebook in your browser.  From there you can open notebooks and run them.  It is probably easiest to navigate to where you keep your code, create a new 'python' directory and organize your code into projects from there.  (This will also make using GitHub easier).
 
