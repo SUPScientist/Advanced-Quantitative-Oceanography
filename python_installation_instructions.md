@@ -21,7 +21,7 @@ In the anaconda window type `conda list`.  If Anaconda is installed and working,
 
 # Create a new environment and install software packages.  
 
-* At your anaconda prompt, type `conda env create -f environment.yml`.  You may need to include the directory the environment.yml file was downloaded too.
+* At your anaconda prompt, type `conda env create -f environment.yml`.  You may need to include the directory the environment.yml file was downloaded to.
 
 * Once finished, let's open a Jupyter notebook, as a test.  At the anaconda prompt type `conda activate tutorialenv` then type `jupyter notebook`.  This will open a jupyter notebook in your browser.  From there you can open notebooks and run them.  It is probably easiest to navigate to where you keep your code, create a new 'python' directory and organize your code into projects from there.  (This will also make using GitHub easier).
 
