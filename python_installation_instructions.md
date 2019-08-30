@@ -7,11 +7,9 @@
 
 Miniconda.  While Anaconda is great (it has a nice interface and quickly downloads 1500+ libraries that you can just click on to use).  It takes up a lot of disk space on libraries that aren't especially relevant for ocean sciences. With Miniconda you install the libraries that you want, this makes it smaller, and also more controlled.  
 
-* download this [file](https://github.com/python4oceanography/ocean_python_tutorial/blob/master/environment.yml) to your working directory:  
+* download this [file](https://github.com/python4oceanography/ocean_python_tutorial/blob/master/environment.yml) to your working directory.  We will use this later.  
 
-* Install Miniconda:  Download Miniconda, Python 3.7 by clicking [here](https://docs.conda.io/en/latest/miniconda.html): 
-
-* Install the downloaded file.  
+* Install Miniconda:  Download Miniconda, Python 3.7 by clicking [here](https://docs.conda.io/en/latest/miniconda.html).  Install the downloaded file.  
 
 # Open up an anaconda prompt
 * Windows:  From your start button, look for Anaconda, within that folder open 'Anaconda Prompt'.  You are done, skip to next section on installing libraries.
