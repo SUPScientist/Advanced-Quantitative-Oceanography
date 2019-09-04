@@ -9,7 +9,7 @@ Miniconda.  While Anaconda is great (it has a nice interface and quickly downloa
 
 * download the environment.yml file from [here](https://github.com/python4oceanography/ocean_python_tutorial/) by scrolling down until you see the file and right clicking on it.  Save it to your working directory.  We will use this later.  You can also choose to 'clone' (see green button in upper right corner) the entire directory with all the tutorials to your computer.  This is useful if you want to work offline and save all your work.
 
-* Install Miniconda:  Download Miniconda, Python 3.7 by clicking [here](https://docs.conda.io/en/latest/miniconda.html).  Install the downloaded file.  Instructions for [mac](https://www.cs.rpi.edu/academics/courses/fall16/cs1/python_environment/mac_install.html)
+* Install Miniconda:  Download Miniconda, Python 3.7 by clicking [here](https://docs.conda.io/en/latest/miniconda.html).  Install the downloaded file.  Instructions for [Mac](https://www.cs.rpi.edu/academics/courses/fall16/cs1/python_environment/mac_install.html).
 
 # Open up an anaconda prompt
 * Windows:  From your start button, look for Anaconda, within that folder open 'Anaconda Prompt'.  You are done, skip to next section on installing libraries.
