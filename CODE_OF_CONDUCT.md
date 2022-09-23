@@ -1,3 +1,5 @@
+*NB: this Code of Conduct does not specifically apply to Advanced Oceanography, but it is retained because it contains helpful language and a Code which we similarly strive to adopt. Please see the Advanced Oceanography syllabus for our code of conduct and read below for additional guidance.*
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
