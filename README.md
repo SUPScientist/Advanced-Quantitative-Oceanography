@@ -16,6 +16,6 @@ http://earthpy.org/category/introduction-to-python.html
 
 
 ## Workshop: 
-The original intent of much of the content here was, in the case of https://github.com/cgentemann/ocean_python_tutorial, 
-A one day introduction to Python for oceanographers to introduce oceanographers to Python programming and reproducible research using Jupyter Notebooks, Git, software citations, and cloud computing.  This hands-on course will use common oceanographic research analyses to demonstrate capabilities of Python, open source software libraries, and cloud computing.
+The original intent of much of the content here was, in the case of https://github.com/cgentemann/ocean_python_tutorial,  
+"A one day introduction to Python for oceanographers to introduce oceanographers to Python programming and reproducible research using Jupyter Notebooks, Git, software citations, and cloud computing.  This hands-on course will use common oceanographic research analyses to demonstrate capabilities of Python, open source software libraries, and cloud computing."  
 And, in the case of https://github.com/ooi-data-lab/datalab-reu-2020, the repository was oriented toward "the 2020 Data Labs Virtual Research Experience for Undergraduates (REU), hosted by Rutgers University."
