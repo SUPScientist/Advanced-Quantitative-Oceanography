@@ -2,8 +2,10 @@
 This repository contains a collection of data exploration, analysis, and visualization excercises. These exercises accompany lectures in Advanced Oceanography. There are two main segments:
 1. A set of Excel (or Apple's Numbers, LibreOffice's Calc, or Google Sheets) exercises.
 2. A set of Python exercises.
+The Python portion is the majority of the repository. 
 
-The Python portion is the majority of the repository. It borrows heavily from https://github.com/cgentemann/ocean_python_tutorial (and maintains the LICENSE from that repo) and https://github.com/ooi-data-lab/datalab-reu-2020. 
+## Credit
+This repo borrows heavily from https://github.com/cgentemann/ocean_python_tutorial (*and maintains the LICENSE from that repo*) and https://github.com/ooi-data-lab/datalab-reu-2020. We are deeply indebted to the authors of those repositories for their hard work spinning these up. I have made changes based on updates to Python package management and in order to reinforce certain elements of the Advanced Oceanography lectures, but those original repositories were invaluable. Thank you for sharing your great resources!
 
 ## How to run Jupyter Notebooks in Advanced Oceanography
 The easiest way to get started with Python is using Google Colab, which operates in the cloud (i.e., on Google's servers). All you need is a web browser. Our first Python exercises will draw heavily from Colab's getting started and overview notebooks.
