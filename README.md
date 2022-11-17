@@ -4,6 +4,8 @@ This repository contains a collection of data exploration, analysis, and visuali
 2. A set of Python exercises.
 The Python portion is the majority of the repository. 
 
+Please note that the course OCN 350 covers much more material than is stored here; this is not a replacement for taking the course, just a supplement!
+
 ## Credit
 This repo borrows heavily from https://github.com/cgentemann/ocean_python_tutorial (*and maintains the LICENSE from that repo*) and https://github.com/ooi-data-lab/datalab-reu-2020. We are deeply indebted to the authors of those repositories for their hard work spinning these up. I have made changes based on updates to Python package management and in order to reinforce certain elements of the Advanced Oceanography lectures, but those original repositories were invaluable. Dr. Gentemann is an internationally recognized scientist and programmer, and one of the greatest champions of open and reproducible (earth and ocean) science. Learn more about Dr. Gentemann here: https://cgentemann.github.io/. Thank you for sharing your great resources! 
 
