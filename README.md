@@ -1,4 +1,4 @@
-# Data Analysis Exercises for Advanced (Quantitative) Oceanography
+# Data Analysis Exercises for Advanced Oceanography
 This repository contains a collection of data exploration, analysis, and visualization excercises. These exercises accompany lectures in Advanced Oceanography. There are two main segments:
 1. A set of Excel (or Apple's Numbers, LibreOffice's Calc, or Google Sheets) exercises.
 2. A set of Python exercises.
