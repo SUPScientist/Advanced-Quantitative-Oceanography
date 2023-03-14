@@ -15,7 +15,9 @@ The easiest way to get started with Python is using Google Colab, which operates
 For those who wish to go a little further and install Python (and important helpful tools) on their computers, we recommend the [Anaconda.org installation](https://www.anaconda.com/products/distribution). Once installed, run either a command of `jupyter lab` from the terminal or open the Anaconda Navigator app and open Jupyter Lab from there.
 
 ## Getting started in Python for Oceanography, Earth Sciences, and Environmental Engineering
-There are almost too many great resources out there to list. My personal favorite is https://www.earthdatascience.org/courses/intro-to-earth-data-science/ and all of the other courses that they offer. I highly recommend that you start here before branching out into the countless other (mostly great, but some mediocre) courses and blogs out there.
+There are almost too many great resources out there to list. My personal favorite is https://www.earthdatascience.org/courses/intro-to-earth-data-science/ and all of the other courses that they offer. I highly recommend that you start here before branching out into the countless other (mostly great, but some mediocre) courses and blogs out there. 
+
+We will also reference Jake VanderPlas's [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) for lessons on the foundations of Python for quantitative analysis.
 
 ## Workshop: 
 The original intent of much of the content here was, in the case of https://github.com/cgentemann/ocean_python_tutorial,  
